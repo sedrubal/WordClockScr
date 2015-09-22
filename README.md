@@ -1,9 +1,19 @@
 WordClockScr
 ============
 
+**EOL**
+=======
+
 A program to bring the wordclock on the desktop (e.g. as screensaver)
 
-**Webpage**: http://diy-electronics.net/?page_id=93
+Some undone TODOs:
 
-**Info**: Currently this project is in an unfinnished state. I want to rework it completely. It will still take some time.
+ - support different languages
+ - Don't overwrite settings-conf
+ - multimonitor support
+ - setable animation durances
+ - Settings don't take action
+ - solve timer chaos
+ - use MVVM
 
+LICENSE: GPLv3
